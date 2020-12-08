@@ -5,4 +5,4 @@ Hungarian-Algorithm implemented in C.
 `gcc hungarian.c helper.c -o hungarian`
 
 # to do 
-- [] solve assignment problem
+- [ ] solve assignment problem
