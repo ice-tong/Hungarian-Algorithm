@@ -43,7 +43,7 @@ match_boy(
         // check if visited, else continue.
         if (visited[j] == 1) continue;
 
-        // Mow, this boy is visited.
+        // Now, this boy is visited.
         visited[j] = 1;
         // Check if this boy have be matched.
         int girl_matched = find_girl_matched_by_boy(
