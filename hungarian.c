@@ -109,7 +109,7 @@ main()
         edges[i] = edges_[i];
     }
 
-    printf("Edged: \n");
+    printf("Edges: \n");
     print_matrix(edges, GIRL_NUM, BOY_NUM);
 
     // Using huangarian algorithm to find max match.
