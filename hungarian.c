@@ -21,7 +21,7 @@ find_girl_matched_by_boy(
 }
 
 /*
-A recursive funcation to match a boy for the given girl.
+A recursive function to match a boy for the given girl.
 If a boy connect the given girl (in other words: edges[girl][boy] == 1)
 Then check if this boy have be matched, \
     if true, recursive shift the boy-matched-girl to another boy as far as possible, \
